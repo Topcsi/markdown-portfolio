@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+* cats
+* having a good rest
+* skyrim mods
